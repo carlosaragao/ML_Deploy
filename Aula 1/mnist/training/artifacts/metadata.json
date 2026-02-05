@@ -1,0 +1,10 @@
+{
+  "model": "LogisticRegression",
+  "dataset": "MNIST",
+  "input_shape": [
+    28,
+    28
+  ],
+  "accuracy": 0.9165,
+  "trained_at": "2026-02-05T22:40:01.192023+00:00"
+}

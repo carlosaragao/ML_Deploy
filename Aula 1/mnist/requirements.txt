@@ -1,0 +1,11 @@
+joblib
+numpy
+scikit-learn
+pandas
+fastapi
+uvicorn
+joblib
+numpy
+pillow
+scikit-learn
+python-multipart
