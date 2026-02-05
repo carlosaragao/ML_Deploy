@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.git/
+.gitignore
+training/__pycache__/
+api/__pycache__/
+training/requirements.txt
+training/train.py
